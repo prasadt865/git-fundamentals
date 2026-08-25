@@ -3,3 +3,5 @@ i am cse student
 i will become devops
 i will become backend dev
 i will learn js as well
+i will learn python as well
+i will learn data science as well
