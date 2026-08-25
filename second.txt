@@ -5,3 +5,4 @@ i will become backend dev
 i will learn js as well
 i will learn python as well
 i will learn data science as well
+i will learn machine learning as well
